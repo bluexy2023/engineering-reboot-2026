@@ -1,0 +1,20 @@
+Folder PATH listing
+Volume serial number is FEAB-BE9C
+C:\PROJECTS\ENGINEERING-REBOOT-2026
++---00-Program-Framework
+|   +---01-Governance
+|   +---02-Roadmaps
+|   +---03-Tracking
+|   +---04-Templates
+|   +---05-Reference
+|   \---06-Career-Assets
++---01-Week-01
+|   +---Evidence
+|   |   \---Day-01
+|   +---Exercises
+|   +---Notes
+|   +---Planning
+|   \---Projects
++---Archive
++---Portfolio
+\---Scratchpad
