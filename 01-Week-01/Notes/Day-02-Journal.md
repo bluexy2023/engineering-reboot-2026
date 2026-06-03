@@ -11,4 +11,4 @@ Markdown
 
 # Plans for day 03
 - Learn GIT workflows
--   
+- Updated README in the root directory of this bootcamp
