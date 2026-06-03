@@ -10,6 +10,7 @@ A structured 26-week engineering reboot program.
 - Develop modern development workflow
 - Build portfolio projects
 - Establish engineering discipline
+- Prepare to enter into software development to develop EB2-NIW endeavor
 
 
 
