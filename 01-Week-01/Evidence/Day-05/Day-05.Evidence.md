@@ -73,3 +73,23 @@ Multiplication: 31.25
 Division: 5.0
 
 ## above were the results
+
+
+## committed files to git repository
+-- git commit results below
+
+a9e64e9 (HEAD -> master) Complete Week 01 Day 05 calculator project
+01-Week-01/Evidence/Day-05/Day-05-GitStatus.png
+01-Week-01/Evidence/Day-05/Day-05-calculator.py-exists.png
+01-Week-01/Evidence/Day-05/Day-05-calculator.py-test-cases-output.png
+01-Week-01/Evidence/Day-05/Day-05-contents-of-calculator.py.png
+01-Week-01/Evidence/Day-05/Day-05-full_source-code-of-calculations-of-calculator.py.png
+01-Week-01/Evidence/Day-05/Day-05.Evidence.md
+01-Week-01/Exercises/Day-05/calculator.py
+01-Week-01/Journal/Day-01-Journal.md
+01-Week-01/Journal/Day-02-Journal.md
+01-Week-01/Journal/Day-03-Journal.md
+01-Week-01/Journal/Day-04-Journal.md
+01-Week-01/Journal/Day-05-Journal.md
+01-Week-01/Notes/Day-05-Python-Calculator-Notes.md
+01-Week-01/Planning/Engineering Reboot 2026 - Week 01 Day 05 Field Manual.pdf
