@@ -1,0 +1,22 @@
+</Markdown>
+# Day 10 notes
+##  Concepts Learned
+- use of loops to create a more efficient code (useful when implementing menus)
+- use of functions
+- use of if to evaluate conditions within a list of possible options
+- use of while to create a loop that continues until condition is FALSE or a branch breaks it
+- use of continue, to continue to the next itereration of the loop
+- use of break to break out of a loop
+- of of return to return a value from a function
+- use of not and None to evaluate conditions 
+• Key Commands
+while, continue, break, return, not, 
+None, def, if, elif in, elif, else, print
+
+• Key Observations
+- i have realized that the 'in' statement to evaluate trueness within a list 
+  of possible options is very useful when implementing menus
+• Lessons Learned
+- the use of functions is very useful to make code more reusable and more efficient
+• Questions For Future Study
+- none for now.
