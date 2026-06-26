@@ -1,0 +1,11 @@
+{
+    "name": "Glenn",
+    "age": 53,
+    "city": "Newark",
+    "skills": [
+        "Python",
+        "Git",
+        "Docker",
+        "VSCode"
+    ]
+}

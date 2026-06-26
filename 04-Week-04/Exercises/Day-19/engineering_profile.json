@@ -1,0 +1,21 @@
+{
+    "name":"Glenn",
+    "address": "New York",
+    "marital_status" : "married",
+    "years_experience": 30,
+    "companies_worked_for": [
+        "NEC",
+        "Lexmark",
+        "NCR",
+        "Sugbuspace Property Leasing"
+    ],
+    "industry_experience" : {
+        "firmware development" : 3,
+        "software development" : 5,
+        "software development management" : 5,
+        "firmware development management" : 4,
+        "firmware test management" : 3,
+        "property management" : 5,
+        "construction" : 2
+    }
+}
