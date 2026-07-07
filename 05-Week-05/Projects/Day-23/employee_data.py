@@ -1,0 +1,40 @@
+# module that defines the canonical data to be used for 
+# days 23, 25 and 25
+
+EMPLOYEES = [
+    {
+        'id':1001,
+        'name':'AliceJohnson',
+        'age':28,
+        'department':'Engineering',
+        'salary':85000
+    },
+    {
+        'id':1002,
+        'name':'Bob Smith',
+        'age':34,
+        'department':'Finance',
+        'salary':72000
+    },
+    {
+        'id':1003,
+        'name':'Charlie Brown',
+        'age':41,
+        'department':'Human Resources',
+        'salary':69000
+    },
+    {
+        'id':1004,
+        'name':'Diana Miller',
+        'age':30,
+        'department':'Marketing',
+        'salary':78000
+    }, 
+    {
+        'id':1005,
+        'name':'Ethan Davis',
+        'age':37,
+        'department':'Engineering',
+        'salary':92000
+    }
+]
