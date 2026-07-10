@@ -104,7 +104,7 @@ def department_summary() -> None:
         else:
             departments[department] = 1
     for departmentname, number_employees in departments.items():
-        print(f"{department:<13}{number_employees} employees")
+        print(f"{departmentname:<16}{number_employees} employees")
 
 # payroll summary 
 def payroll_summary():
