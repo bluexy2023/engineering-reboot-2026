@@ -40,12 +40,5 @@
         "department": "Engineering",
         "age": 53,
         "salary": 125000.0
-    },
-    {
-        "id": 1007,
-        "name": "Thotho Genoves",
-        "department": "Security",
-        "age": 24,
-        "salary": 80000.0
     }
 ]
